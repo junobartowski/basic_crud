@@ -1,0 +1,1 @@
+Upload directory for thumbnail(200x200) of photos(600x600)
