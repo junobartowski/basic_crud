@@ -1,3 +1,5 @@
+A Basic Crud Application With JPEG Upload Using CodeIgniter Version 3.0.4 and Bootstrap 3
+
 1. In order to see the database structure, please import basic_crud.sql on a local database.
 2. Install the app by copying the project folder to htdocs in XAMPP or var/wwww/ in LAMPP
 3. To access the local app via web browser, visit http://localhost/basic_crud/dashboard/page
